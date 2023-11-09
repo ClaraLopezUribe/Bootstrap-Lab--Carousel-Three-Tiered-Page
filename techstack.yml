@@ -1,0 +1,18 @@
+repo_name: ClaraLopezUribe/Bootstrap-Lab--Carousel-Three-Tiered-Page
+report_id: de7867c244730246fc63dd7d05cd2480
+repo_type: Public
+timestamp: '2023-11-09T16:15:47+00:00'
+requested_by: ClaraLopezUribe
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
